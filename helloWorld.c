@@ -12,4 +12,12 @@ int main(void) {
     printf("Hello, ");
     printf("world!");
     printf("\n");
+
+    /* Some important notes:
+        - all variables MUST be declared before they are used in C
+        - they MUST be declared at the top of a block {} 
+        - return statements are optional in main() only.
+    */
+
+   return 0;
 }
