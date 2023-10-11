@@ -13,7 +13,7 @@ int isvowel(char c);
 
 int main(void) {
     char input[BUFFER_SIZE];
-    char target[sizeof(input)];
+    char target[strlen(input)];
     int c;
 
     printf("Input any string (char limit: %d): \n", BUFFER_SIZE);
