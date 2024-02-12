@@ -9,4 +9,4 @@ projects folder has more "fun" stuff
 
 p.s. if you see an account like "voxel" or whatever in some of the commit messages that's my personal account that i forgot to remove authentication in vscode for, so it automatically commits for me using that account. oops
 
-bye
+bye!
